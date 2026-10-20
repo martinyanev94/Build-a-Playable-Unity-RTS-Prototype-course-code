@@ -1,0 +1,2 @@
+# Build-a-Playable-Unity-RTS-Prototype-course-code
+Learn how to build a playable Unity RTS prototype with a complete single-player gameplay loop, from design and map data to combat and a desktop build. This practical course shows how to connect camera controls, HUD systems, units, enemies, navigation, resources, buildings, objectives, testing, and win or lose states into one coherent prototype. You
