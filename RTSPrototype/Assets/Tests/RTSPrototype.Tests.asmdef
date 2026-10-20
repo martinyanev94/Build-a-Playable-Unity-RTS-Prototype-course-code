@@ -1,0 +1,19 @@
+{
+  "name": "RTSPrototype.Tests",
+  "rootNamespace": "RTSPrototype.Tests",
+  "references": [
+    "RTSPrototype.Combat",
+    "GUID:757b9f2d3f4f44f2a0c1b8f0d4d6c001",
+    "GUID:1234567890abcdef1234567890abcdef"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": true,
+  "precompiledReferences": ["nunit.framework.dll"],
+  "autoReferenced": false,
+  "defineConstraints": ["UNITY_INCLUDE_TESTS"],
+  "versionDefines": [],
+  "noEngineReferences": true,
+  "optionalUnityReferences": ["TestAssemblies"]
+}
